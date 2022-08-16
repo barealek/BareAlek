@@ -1,4 +1,4 @@
-# Hello! I'm Alek.
+# ✨ Hello! I'm Alek.
 
 ```py
 > from users import Alek
@@ -9,3 +9,6 @@
 > print(Alek.discord)
 "https://discord.com/users/424265745627873302"
 ```
+
+## Projects
+### - Anti Toxicity
