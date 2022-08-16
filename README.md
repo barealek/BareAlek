@@ -1,7 +1,7 @@
 # ✨ Hello! I'm Alek.
 
 ```py
-> from users import Alek
+> from GitHub.users import splayzdk as Alek
 > print(Alek.desc)
 "Hello! I'm a 15 year old Python developer."
 > print(Alek.interests)
