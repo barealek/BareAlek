@@ -12,3 +12,5 @@
 
 ## Projects
 ### - Anti Toxicity
+Anti Toxicity is a Discord bot that utilizes A.I to detect toxic behaviour in Discord servers.
+More (here)[https://antitoxicity.cloud/]
