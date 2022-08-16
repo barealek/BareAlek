@@ -11,6 +11,8 @@
 ```
 
 ## Projects
-### - Anti Toxicity
+### - Anti Toxicity <img src="drawing.jpg" alt="drawing" width="200"/>
 Anti Toxicity is a Discord bot that utilizes A.I to detect toxic behaviour in Discord servers.
 More information can be found [here](https://antitoxicity.cloud/)!
+
+### - 
