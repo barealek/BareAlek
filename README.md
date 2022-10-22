@@ -7,7 +7,7 @@
 > print(Alek.interests)
 "I'm interested in learning Django and HTML / CSS."
 > print(Alek.discord)
-"https://discord.com/users/424265745627873302"
+"(https://discord.com/users/424265745627873302)[https://discord.com/users/424265745627873302]"
 ```
 
 
