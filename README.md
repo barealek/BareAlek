@@ -15,7 +15,7 @@
 > ### Anti Toxicity 
 > Anti Toxicity is a Discord bot that utilizes A.I to detect toxic behaviour in Discord servers.
 > More information can be found [here](https://antitoxicity.cloud/)!
-<img src="https://antitoxicity.cloud/static/assets/TreeBanner-embed-centered.png" alt="antitox logo" width="384"/>
+<img src="https://antitoxicity.cloud/static/assets/logo.png" alt="logo" width="384"/>
 
 ---
 # More might be coming soon! <3
