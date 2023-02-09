@@ -33,4 +33,9 @@
 
 ***
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splayzdk)](https://git.io/streak-stats)
+<p align="center">
+  <strong>
+    Github Streak:
+ </strong>
+</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=splayzdk)"/></p>
