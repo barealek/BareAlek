@@ -3,7 +3,11 @@
 
 ***
 
-<p align="center">### Technologies I use:</p>
+<p align="center">
+  <strong>
+    Technologies I use:
+ </strong>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
@@ -26,3 +30,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
+
+***
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splayzdk)](https://git.io/streak-stats)
