@@ -1,4 +1,4 @@
-<img src="https://imalek.me/static/assets/githubuserbanner.png" alt="splayzdk" />
+<img src="https://imalek.me/static/assets/ghprofbanner.png" alt="splayzdk" />
 <p align="center" style="font-size: 18px;">I'm a 16 year old Python & Lua developer, with many interests in Web Backend 🌐, Machine Learning 🧠 and Discord Bots 🤖. I'm a very passionate learner, who's always open for learning new technologies. </p>
 
 ***
