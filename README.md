@@ -3,7 +3,7 @@
 
 ***
 
-<p align="center" style="font-size: 24px;">Technologies I use:</p>
+<p align="center" style="size: 24px;">Technologies I use:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
