@@ -38,4 +38,4 @@
     Github Streak:
  </strong>
 </p>
-<p align="center"><img src="[https://github-readme-streak-stats.herokuapp.com/?user=splayzdk)](http://github-readme-streak-stats.herokuapp.com?user=splayzdk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=E337EB&ring=D158EB&sideLabels=EB5AA3&currStreakLabel=EB32A2&currStreakNum=EB0A8A)"/></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=splayzdk&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=E337EB&ring=D158EB&sideLabels=EB5AA3&currStreakLabel=EB32A2&currStreakNum=EB0A8A&border=EB89E6"/></p>
