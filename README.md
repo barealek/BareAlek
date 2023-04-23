@@ -1,4 +1,4 @@
-<img src="https://imalek.me/static/assets/ghprofbanner.png" alt="splayzdk" />
+<img src="https://github.com/SpLayzDK/SpLayzDK/blob/main/banner.png?raw=true" alt="splayzdk" />
 <p align="center" style="font-size: 18px;">I'm a 16 year old Python & Lua developer, with many interests in Web Backend 🌐, Machine Learning 🧠 and Discord Bots 🤖. I'm a very passionate learner, who's always open for learning new technologies. </p>
 
 <p align="center" style="font-weight: 500; color: red;">(!) Most of my repositories and projects are private (!)</p>
