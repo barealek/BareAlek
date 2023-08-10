@@ -1,5 +1,5 @@
-<img src="https://github.com/SpLayzDK/SpLayzDK/blob/main/banner.png?raw=true" alt="splayzdk" />
-<p align="center" style="font-size: 18px;">I'm a 16 year old Python & Lua developer, with many interests in Web Backend 🌐, Machine Learning 🧠 and Discord Bots 🤖. I'm a very passionate learner, who's always open for learning new technologies. </p>
+<img src="https://github.com/SpLayzDK/SpLayzDK/blob/main/banner.png?raw=true" alt="splayzdk" /> 
+<p align="center" style="font-size: 18px;">I'm a 16 year old Python & Go developer, with many interests in Web Development 🕸️, Machine Learning 🧠 and Discord Bots 🤖. I'm a very passionate and self-driven learner, who's always open for learning new technologies. </p>
 
 <p align="center" style="font-weight: 500; color: red;">(!) Most of my repositories and projects are private (!)</p>
 
@@ -12,6 +12,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
