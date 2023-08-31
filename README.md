@@ -4,6 +4,12 @@
 ***
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/barealek/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+</p>
+  
+***
+
+<p align="center">
   <strong>
     Technologies I use:
  </strong>
