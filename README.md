@@ -1,7 +1,10 @@
 <img src="https://github.com/SpLayzDK/SpLayzDK/blob/main/banner.png?raw=true" alt="splayzdk" /> 
 <p align="center" style="font-size: 18px;">I'm a 16 year old Python & Go developer, with many interests in Web Development 🕸️, Machine Learning 🧠 and Discord Bots 🤖. I'm a very passionate and self-driven learner, who's always open for learning new technologies. </p>
 
-<p align="center" style="font-weight: 500; color: red;">(!) Most of my repositories and projects are private (!)</p>
+<a href="https://github.com/barealek">
+<img src="https://raw.githubusercontent.com/barealek/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/barealek/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</a>
 
 ***
 
