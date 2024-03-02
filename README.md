@@ -1,5 +1,5 @@
 <img src="https://github.com/SpLayzDK/SpLayzDK/blob/main/banner.png?raw=true" alt="splayzdk" /> 
-<p align="center" style="font-size: 18px;">16 year old Python & Go developer, with interests in Web Development 🕸️, Service Infrastructure ⚙️, Machine Learning 🧠 and Quirky Applications 🤪. I'm a very passionate and self-driven learner, who's always open for learning new technologies. </p>
+<p align="center" style="font-size: 18px;">17 year old Python & Go developer, with interests in Web Development 🕸️, Service Infrastructure ⚙️, Machine Learning 🧠 and Quirky Applications 🤪. I'm a very passionate and self-driven learner, who's always open for learning new technologies. </p>
 
 ***
 
